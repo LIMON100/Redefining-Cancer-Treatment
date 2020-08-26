@@ -2,7 +2,7 @@
 
 
 ## Problem Statement:
-// ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
 
 This was mainly a KAGGLE competition. So the description is as same as in kaggle page.
 
@@ -36,7 +36,7 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 ### Text-Preprocessing
-// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### Stop words
