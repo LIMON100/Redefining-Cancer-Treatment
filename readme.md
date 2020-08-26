@@ -2,6 +2,7 @@
 
 
 ## Problem Statement:
+// ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
 
 This was mainly a KAGGLE competition. So the description is as same as in kaggle page.
 
@@ -35,6 +36,7 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 ### Text-Preprocessing
+// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### Stop words
@@ -55,7 +57,8 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 
-### Apply two differnet method for converting categorical value. 
+### Apply two differnet method for converting categorical value.
+// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### 1.Response-Encoding
@@ -73,6 +76,7 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 ### Apply Machine Learning Algorithm
+// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### 1 . Logistic Regression
@@ -98,7 +102,8 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 
-### Apply ML algorithm on,
+### Apply ML algorithm on
+// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### 1. Balancing all classes
@@ -111,7 +116,11 @@ This project is mainly find out the gene class by analysis different research ar
 
 ### Find the Interpretablility of a ML-Algorithm.
 
+
+
+
 ### Result is check using,
+// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 #### Confusion-Matrix 
 
