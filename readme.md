@@ -33,23 +33,78 @@ https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
 This project is mainly find out the gene class by analysis different research article. There is 9 different class of gene. By processing the text we apply:
 
+
+### Text-Preprocessing
+
 #### Stop words
     
 #### Replace all special character with SPACE
+
+#### Every Space is connecting with '_'
+
+#### Replace double space with single space
+
+
     
     
-#### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns gene,variation,class,text. 
+### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns gene,variation,class,text. 
 
-#### Apply two differnet method for converting categorical value. 1.Response-Encoding , 2-One-hot-encoding
+### Apply two differnet method for converting categorical value. 
 
-#### Normalize Data
+#### 1.Response-Encoding
 
-#### Apply Machine Learning Algorithm
+#### 2-One-hot-encoding
 
-#### Apply all ML algorithm one is for response-encoding and also in one-hot-encoding
 
-#### Checking result Balancing all classes and also in default.
+### Normalize Data
 
-#### Find the Interpretablility of a ML-Algorithm.
 
-#### Result is check using Confusion-Matrix , Log-Loss , Mis-Classified points
+### Combine all different type converting column together.
+
+
+### Apply Machine Learning Algorithm
+
+
+#### 1 . Logistic Regression
+
+#### 2 . KNN
+
+#### 3 . Naive Bayes
+
+#### 4 . SVM
+
+#### 5 . Random Forest
+
+#### 6 . Stacking Classifer
+
+#### 7 . AdaBoost(Boosting tecnique)
+
+#### 8 . XGBoost(Boosting tecnique)
+
+
+
+### Apply all ML algorithm one is for response-encoding and also in one-hot-encoding
+
+
+### Apply ML algorithm on,
+
+#### 1. Balancing all classes
+
+#### 2. Default
+
+
+
+
+### Find the Interpretablility of a ML-Algorithm.
+
+### Result is check using,
+
+#### Confusion-Matrix 
+
+#### Precision
+
+#### Recall
+
+#### Log-Loss
+
+#### Mis-Classified points
