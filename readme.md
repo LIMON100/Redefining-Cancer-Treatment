@@ -1,0 +1,55 @@
+# Redefining-Cancer-Treatment
+
+
+## Problem Statement:
+
+This was mainly a KAGGLE competition. So the description is as same as in kaggle page.
+
+In this competition you will develop algorithms to classify genetic mutations based on clinical evidence (text).
+
+There are nine different classes a genetic mutation can be classified on.
+
+This is not a trivial task since interpreting clinical evidence is very challenging even for human specialists. Therefore, modeling the clinical evidence (text) will be critical for the success of your approach.
+
+Both, training and test, data sets are provided via two different files. One (training/test_variants) provides the information about the genetic mutations, whereas the other (training/test_text) provides the clinical evidence (text) that our human experts used to classify the genetic mutations. Both are linked via the ID field.
+
+Therefore the genetic mutation (row) with ID=15 in the file training_variants, was classified using the clinical evidence (text) from the row with ID=15 in the file training_text
+
+Finally, to make it more exciting!! Some of the test data is machine-generated to prevent hand labeling. You will submit all the results of your classification algorithm, and we will ignore the machine-generated samples. 
+
+
+
+
+
+## Dataset:
+
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
+
+
+
+## Methodology:
+
+
+This project is mainly find out the gene class by analysis different research article. There is 9 different class of gene. By processing the text we apply:
+
+#### Stop words
+    
+#### Replace all special character with SPACE
+    
+    
+#### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns gene,variation,class,text. 
+
+#### Apply two differnet method for converting categorical value. 1.Response-Encoding , 2-One-hot-encoding
+
+#### Normalize Data
+
+#### Apply Machine Learning Algorithm
+
+#### Apply all ML algorithm one is for response-encoding and also in one-hot-encoding
+
+#### Checking result Balancing all classes and also in default.
+
+#### Find the Interpretablility of a ML-Algorithm.
+
+#### Result is check using Confusion-Matrix , Log-Loss , Mis-Classified points
