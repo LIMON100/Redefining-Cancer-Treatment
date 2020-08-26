@@ -36,6 +36,7 @@ This project is mainly find out the gene class by analysis different research ar
 
 ### Text-Preprocessing
 
+
 #### Stop words
     
 #### Replace all special character with SPACE
@@ -45,15 +46,24 @@ This project is mainly find out the gene class by analysis different research ar
 #### Replace double space with single space
 
 
+
+
+
     
     
 ### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns gene,variation,class,text. 
 
+
+
 ### Apply two differnet method for converting categorical value. 
+
 
 #### 1.Response-Encoding
 
 #### 2-One-hot-encoding
+
+
+
 
 
 ### Normalize Data
@@ -83,14 +93,18 @@ This project is mainly find out the gene class by analysis different research ar
 
 
 
+
 ### Apply all ML algorithm one is for response-encoding and also in one-hot-encoding
+
 
 
 ### Apply ML algorithm on,
 
+
 #### 1. Balancing all classes
 
 #### 2. Default
+
 
 
 
