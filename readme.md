@@ -31,8 +31,8 @@ https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
 ## Methodology:
 
-
 This project is mainly find out the gene class by analysis different research article. There is 9 different class of gene. By processing the text we apply:
+
 
 
 ### Text-Preprocessing
@@ -42,7 +42,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
     
 #### Replace all special character with SPACE
 
-#### Every Space is connecting with '_'
+#### Every Space is connecting with underscore(_)
 
 #### Replace double space with single space
 
@@ -51,13 +51,19 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
     
-    
-### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns gene,variation,class,text. 
+### After preprocessing the text part we focus on Analysis every column. There are mainly 4 columns 
+   **gene**
+   
+   **variation**
+   
+   **class**
+   
+   **text**
 
 
 
 ### Apply two differnet method for converting categorical value.
-// _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 #### 1.Response-Encoding
@@ -69,9 +75,11 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 ### Normalize Data
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 ### Combine all different type converting column together.
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 ### Apply Machine Learning Algorithm
@@ -97,6 +105,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 ### Apply all ML algorithm one is for response-encoding and also in one-hot-encoding
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 
@@ -112,6 +121,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 ### Find the Interpretablility of a ML-Algorithm.
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 
