@@ -124,6 +124,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
+![](https://github.com/LIMON100/Redefining-Cancer-Treatment/blob/master/images/intr.PNG?raw=true)
 
 
 ### Result is check using,
@@ -138,3 +139,10 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 #### Log-Loss
 
 #### Mis-Classified points
+
+
+
+![](https://github.com/LIMON100/Redefining-Cancer-Treatment/blob/master/images/conmat.PNG?raw=true)
+![](https://github.com/LIMON100/Redefining-Cancer-Treatment/blob/master/images/pm.PNG?raw=true)
+![](https://github.com/LIMON100/Redefining-Cancer-Treatment/blob/master/images/rm.PNG?raw=true)
+
